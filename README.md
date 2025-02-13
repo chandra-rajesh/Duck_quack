@@ -1,2 +1,2 @@
 # Duck_quack
-Its a fun website for my duck
+Its a fun website to learn 
